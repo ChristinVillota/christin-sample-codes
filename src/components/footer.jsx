@@ -6,6 +6,7 @@ class Footer extends Component {
         return (
             <div className='footer'>
                 <p>Footer</p>
+                <p>Footer2</p>
             </div>
         );
     }
