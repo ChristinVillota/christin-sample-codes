@@ -7,6 +7,7 @@ class Footer extends Component {
             <div className='footer'>
                 <p>Footer</p>
                 <p>Footer2</p>
+                <p>Footer3</p>
             </div>
         );
     }
